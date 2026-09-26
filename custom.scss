@@ -122,6 +122,8 @@ main img {
 }
 
 .instructor {
+    display: flex;
+    flex-direction: column;
     border: 1px solid rgb(206, 212, 218);
     border-top: 3px solid $primary;
     border-radius: .375rem;
@@ -137,6 +139,7 @@ main img {
     }
 
     p:last-child {
+        margin-top: auto;
         margin-bottom: 0;
         font-size: .9rem;
     }

@@ -48,7 +48,7 @@ BBSW AI Committee Member
 ::: {.g-col-12 .g-col-md-4 .instructor}
 **Isabella Velásquez**
 
-Sr. Developer Advocate,<br>Posit
+Sr. Developer Advocate, Posit
 
 [LinkedIn](https://www.linkedin.com/in/ivelasq/)
 :::

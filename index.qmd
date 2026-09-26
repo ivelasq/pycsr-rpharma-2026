@@ -40,7 +40,7 @@ Principal Software Engineer, Posit (Open Source)
 ::: {.g-col-12 .g-col-md-4 .instructor}
 **Yilong Zhang**
 
-Meta & AI Committee Member, BBSW
+BBSW AI Committee Member
 
 [LinkedIn](https://www.linkedin.com/in/yilongzhang/)
 :::
